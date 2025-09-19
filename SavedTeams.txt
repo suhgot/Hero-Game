@@ -1,0 +1,28 @@
+============================================================= Vladamir's Team =============================================================
+Black Widow | Human Fighter | 44 | 44.0 | Mechanical | Martial Arts | 
+Iron Man | Human Fighter | 87 | 87.0 | Electromagnetic | Repulsor Blast | 
+Venom | Sentient Alien Symbiote | 51 | Biological | Venom Blast | 
+Titan Guardian | Mech Sentinel | 74 | 100.0 | Mechanical | Missiles | 
+Nyxara | Dark Entity | 53 | 100.0 | NatureControl | Umbrakinesis  | 
+
+============================================================= Saugat's Team =============================================================
+Hawkeye | Human Fighter | 66 | 66.0 | Mechanical | Marksmanship | 
+Hulk | Green Rage Monster | 32 | Biological | Hulk Smash | 
+Thanos | Genocidal Warlord | 64 | NatureControl | Gauntlet Snap | 
+Cipher | Killer Cyborg | 5 | 100.0 | Mechanical | Laser Shooter | 
+
+Vladamir wins with a total power of 381.0!
+============================================================= Ting's Team =============================================================
+Black Widow | Human Fighter | 100 | 100.0 | Mechanical | Martial Arts | 
+Iron Man | Human Fighter | 10 | 10.0 | Electromagnetic | Repulsor Blast | 
+Venom | Sentient Alien Symbiote | 72 | Biological | Venom Blast | 
+Titan Guardian | Mech Sentinel | 70 | 100.0 | Mechanical | Missiles | 
+Nyxara | Dark Entity | 61 | 100.0 | NatureControl | Umbrakinesis  | 
+
+============================================================= Saugat's Team =============================================================
+Hawkeye | Human Fighter | 22 | 22.0 | Mechanical | Marksmanship | 
+Hulk | Green Rage Monster | 17 | Biological | Hulk Smash | 
+Thanos | Genocidal Warlord | 84 | NatureControl | Gauntlet Snap | 
+Cipher | Killer Cyborg | 57 | 100.0 | Mechanical | Laser Shooter | 
+
+Ting wins with a total power of 360.0!

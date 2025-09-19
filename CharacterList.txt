@@ -1,0 +1,9 @@
+H, Black Widow, Human Fighter, 100, Mechanical, Martial Arts
+H, Hawkeye, Human Fighter, 100, Mechanical, Marksmanship
+H, Iron Man, Human Fighter, 100, Electromagnetic, Repulsor Blast
+M, Hulk, Green Rage Monster, 100, Biological, Hulk Smash
+M, Venom, Sentient Alien Symbiote, 100, Biological, Venom Blast
+M, Thanos, Genocidal Warlord, 100, NatureControl, Gauntlet Snap
+N, Titan Guardian, Mech Sentinel, 100, Mechanical, Missiles
+N, Cipher, Killer Cyborg, 100, Mechanical, Laser Shooter
+N, Nyxara, Dark Entity, 100, NatureControl, Umbrakinesis 
